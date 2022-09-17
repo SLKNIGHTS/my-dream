@@ -1,0 +1,4 @@
+print[ {
+   {"迭代格式k=Bk2+f:\n", "k=", MatrixForm[B], "k2+", MatrixForm[f]},
+   {\[Placeholder]}
+  } ];
